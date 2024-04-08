@@ -1,7 +1,7 @@
 # C++ OOP Class Inheritance Demo
 
 
-#ALONSO TEST
+#ALONSO TEST 2
 ## Description:
 OOP Demonstration shows Parent<-Child as Person<-Student
 
